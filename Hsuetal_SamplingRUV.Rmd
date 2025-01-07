@@ -14,11 +14,11 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Data and script to replicate analyses in Hsu et al. (2024). If used in full or in part, please cite the original publication: 
+Data and script to replicate analyses in Hsu et al. (2025). If used in full or in part, please cite the data and the original publication: 
 
-Hsu TH.T, Gordon S, Rerrari R, Hoey A.S, Figueira W.F (2024) Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. doi:  []()
+Hsu TH.T, Gordon S, Rerrari R, Hoey A.S, Figueira W.F (2025) Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. doi:  [https://doi.org/10.1007/s00338-024-02613-6](https://doi.org/10.1007/s00338-024-02613-6)
 
-Raw data also available on [Sydney eScholarship](link) and [AIMS Metadata Repository](link)
+Raw data also available on [Sydney eScholarship](link) and [GitHub](https://github.com/THTonyHsu/SamplingRUV.git)
 
 # **Packages**
 
