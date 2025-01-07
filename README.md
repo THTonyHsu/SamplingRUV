@@ -1,7 +1,7 @@
 # Data from: Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish
-Hsu TH.T, Gordon S, Rerrari R, Hoey A.S, Figueira W.F (2024) Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. (submitted to Coral Reefs)
+Hsu TH.T, Gordon S, Rerrari R, Hoey A.S, Figueira W.F (2025) Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. (accepted in Coral Reefs)
 
-This Hsuetal_2024_dataset_README.txt file was generated on 2024-11-15 by Tsai-Hsuan Tony Hsu (tonytsaihsuanhsu@gmail.com / tsai-hsuan.hsu@sydney.edu.au). Knit [Hsuetal2024_SamplingRUV.Rmd](Hsuetal_SamplingRUV.Rmd) to generate html and extract R code.
+This Hsuetal_2025_dataset_README.txt file was generated on 7 Jan 2025 by Tsai-Hsuan Tony Hsu (tonytsaihsuanhsu@gmail.com / tsai-hsuan.hsu@sydney.edu.au). Knit [Hsuetal2024_SamplingRUV.Rmd](Hsuetal_SamplingRUV.Rmd) to generate html and extract R code.
 
 
 1. **Author Information**
