@@ -18,7 +18,7 @@ Data and script to replicate analyses in Hsu et al. (2025). If used in full or i
 
 Hsu TH.T, Gordon S, Rerrari R, Hoey A.S, Figueira W.F (2025) Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. doi:  [https://doi.org/10.1007/s00338-024-02613-6](https://doi.org/10.1007/s00338-024-02613-6)
 
-Raw data also available on [Sydney eScholarship](link) and [GitHub](https://github.com/THTonyHsu/SamplingRUV.git)
+Raw data also available on [Sydney eScholarship](https://hdl.handle.net/2123/33520) and [GitHub](https://github.com/THTonyHsu/SamplingRUV.git)
 
 # **Packages**
 
