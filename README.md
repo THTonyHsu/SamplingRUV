@@ -1,7 +1,7 @@
 # Data and R markdown to replicate analyses in “Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish”.
 ---
 
-This Hsu.etal_2025_dataset_README.txt file was generated on 9 Jan 2025 by Tsai-Hsuan Tony Hsu (tonytsaihsuanhsu@gmail.com / tsai-hsuan.hsu@sydney.edu.au). Knit [SamplingRUV_Hsu et al. 2025.Rmd](SamplingRUV_Hsu et al. 2025.Rmd) to generate html and extract R code.
+This Hsu.etal_2025_dataset_README.txt file was generated on 9 Jan 2025 by Tsai-Hsuan Tony Hsu (tonytsaihsuanhsu@gmail.com / tsai-hsuan.hsu@sydney.edu.au). Knit [SamplingRUV_Hsu et al_2025.Rmd](SamplingRUV_Hsu et al_2025.Rmd) to generate html and extract R code.
 
 
 1. **Author Information**
